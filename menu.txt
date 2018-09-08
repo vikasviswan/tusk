@@ -1,5 +1,5 @@
 
 This menu
-Burger
-hot dog
-paneer
+Burger 90
+hot dog 100
+paneer 100
